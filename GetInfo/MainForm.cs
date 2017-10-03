@@ -41,7 +41,7 @@ namespace GetInfo
 		{
 			string hostName = Dns.GetHostName(); //Get Hostname from DNS information
 			
-			string user = System.Environment.GetEnvironmentVariable("USERNAME"); //Get usrname from environment variables
+			string user = System.Environment.GetEnvironmentVariable("USERNAME"); //Get username from environment variables
 			IPAddress[] localIPs = Dns.GetHostAddresses(Dns.GetHostName()); //Get array of IP addresses from DNS information, only from local Hostname
 			StringBuilder iplocal = new StringBuilder(); //start Stringbuilder to read IP array
 			
