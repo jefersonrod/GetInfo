@@ -1,0 +1,8 @@
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\obj\Debug\GetInfo.csprojResolveAssemblyReference.cache
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\obj\Debug\GetInfo.MainForm.resources
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\obj\Debug\GetInfo.csproj.GenerateResource.Cache
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\bin\Debug\GetInfo.exe.config
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\bin\Debug\GetInfo.exe
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\bin\Debug\GetInfo.pdb
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\obj\Debug\GetInfo.exe
+C:\Users\jrodrigues\Documents\SharpDevelop Projects\GetInfo\GetInfo\obj\Debug\GetInfo.pdb
